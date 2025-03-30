@@ -1,7 +1,6 @@
 
 # 📌 Programador Web
 
-
 **👩‍🏫 Profesora:** Lic. Karina Herrera  
 **👨‍🎓 Alumno:** De Wet Baumann  
 
@@ -35,3 +34,7 @@
 ---
 
 ✨ *Este repositorio contiene los trabajos prácticos del curso de Programador Web en ESAyO.*  
+
+![Project Status](https://img.shields.io/badge/status-active-brightgreen) ![License](https://img.shields.io/badge/license-No%20License-red) ![GitHub language](https://img.shields.io/github/languages/top/dewetbaumann/HTML)  
+
+---
